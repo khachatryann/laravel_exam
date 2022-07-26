@@ -60,6 +60,7 @@
 
                     <button class="btn btn-success">Create</button>
                     <p class="btn btn-link"><a href="{{ route('login_view') }}">Sign In</a></p>
+                </form>
             </div>
         </div>
     </div>
